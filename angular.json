@@ -33,8 +33,7 @@
             "scripts": [],
             "polyfills": [],
             "styles": [
-              "src/global_styles.scss",
-              "@progress/kendo-theme-material/scss/grid/_index.scss"
+              "src/global_styles.scss"
             ],
             "tsConfig": "src/tsconfig.app.json"
           }
